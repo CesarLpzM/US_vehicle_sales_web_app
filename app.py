@@ -4,7 +4,7 @@ import streamlit as st
 import plotly.express as px
 
 # Importamos los datos del DataSet a un DataFrame
-car_data = pd.read_csv(r"C:\Users\Pc\OneDrive\Documentos\TripleTen\Sprint_7\proyecto_s7\datasets\vehicles_us.csv")
+car_data = pd.read_csv("vehicles_us.csv")
 
 # Creamos un encabezado
 st.header('Anuncios de venta de coches')
