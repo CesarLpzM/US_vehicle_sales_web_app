@@ -1,7 +1,7 @@
 # Web apps development project
 
 ## Problem solving
-This web app visualizes a U.S. vehicle sales dataset with a mileage histogram and a mileage-vs-price scatter plot.
+I made this web app which visualizes a U.S. vehicle sales dataset with a mileage histogram and a mileage-vs-price scatter plot.
 
 ## Tech Stack
 - *Languages:* python 
